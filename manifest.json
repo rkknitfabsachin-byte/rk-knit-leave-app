@@ -1,0 +1,18 @@
+{
+  "name": "RK Knit Leave - Portal",
+  "short_name": "RK Leave",
+  "description": "RK Knit Factory Employee Leave Management Portal",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
